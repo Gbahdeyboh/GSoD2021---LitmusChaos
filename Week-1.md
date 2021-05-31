@@ -16,7 +16,7 @@ After I completed the first few parts of Nana's course, I decided to go back to 
 
 I will continue Nana's course in week 2 and hopefully complete it.
 
-### What did I learn
+### What did I learn?
 - Docker, docker-compose.
 - Container Orchestration Engines.
 - Components of a Worker Node (Theory)
