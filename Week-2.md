@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 Last week, I started to learn Kubernetes as a requirement for learning Litmus. It's been a really interesting journey and I've made a lot of progress since then.
 
 Last week, I went through a few resources and started taking an introductory course to Kubernetes thought by Nana. This week, I was able to successfully complete the course, create, and deploy my first ever Kubernetes cluster. Yaaayy!. 
