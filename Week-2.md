@@ -29,3 +29,10 @@ Asides from Nana's course, I was also able to continue going through the Kuberne
 ## What were the challenges I faced?
 I still need to scheme through Nana's course again, a lot of stuffs Mentioned in the last part of the course are not fully understood yet. I find myself having to sonstantly go back to recall even the most basic stuffs. I guess this is because I am still very new to Kubernetes.
 
+## What's next?
+- Create a sample project.
+- Dockerize the sample project and push it to a Docker registry.
+- Create A Kubernetes Cluster for this smaple project using the Docker Image you created. tent
+- Host your Kubernetes Cluster on the cloud and make it publicly accessible.
+- Create a Storage Volume and try to make it persistent.
+
